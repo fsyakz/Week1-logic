@@ -31,3 +31,4 @@ let lastname = "alghoniyyu";
 let fullname = firstname + lastname;
 
 console.log(fullname)
+
